@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>bharats</sys_created_by>
+        <sys_created_on>2023-01-19 13:00:17</sys_created_on>
+        <sys_data_policy display_value="Sets the Description field to mandatory">e37fcf281be02510a0ab99f1b24bcbf0</sys_data_policy>
+        <sys_id>237fcf281be02510a0ab99f1b24bcbff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Innovate" source="x_cyso_innovate">1b3e83e41be02510a0ab99f1b24bcbcc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">1b3e83e41be02510a0ab99f1b24bcbcc</sys_scope>
+        <sys_update_name>sys_data_policy_rule_237fcf281be02510a0ab99f1b24bcbff</sys_update_name>
+        <sys_updated_by>bharats</sys_updated_by>
+        <sys_updated_on>2023-01-19 13:00:17</sys_updated_on>
+        <table>x_cyso_innovate_innovate</table>
+    </sys_data_policy_rule>
+</record_update>
