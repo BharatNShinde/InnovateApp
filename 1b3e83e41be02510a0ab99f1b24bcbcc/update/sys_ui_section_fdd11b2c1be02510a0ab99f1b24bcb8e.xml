@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="My Idea" section_id="fdd11b2c1be02510a0ab99f1b24bcb8e" sys_domain="global" table="x_cyso_innovate_innovate" version="3" view="">
+    <sys_ui_section caption="My Idea [1/2/3/4/5/6]" section_id="fdd11b2c1be02510a0ab99f1b24bcb8e" sys_domain="global" table="x_cyso_innovate_innovate" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>0</position>
             <sys_created_by>bharats</sys_created_by>
-            <sys_created_on>2023-01-19 13:10:33</sys_created_on>
-            <sys_id>c6d11b2c1be02510a0ab99f1b24bcbb0</sys_id>
+            <sys_created_on>2023-01-24 08:20:07</sys_created_on>
+            <sys_id>5c5f378e1ba8ad10c6f255f3604bcba2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_cyso_innovate_innovate" sys_domain="global" view="Default view">fdd11b2c1be02510a0ab99f1b24bcb8e</sys_ui_section>
+            <sys_ui_section caption="My Idea [1/2/3/4/5/6]" display_value="My Idea [1/2/3/4/5/6]" name="x_cyso_innovate_innovate" sys_domain="global" view="Default view">fdd11b2c1be02510a0ab99f1b24bcb8e</sys_ui_section>
             <sys_updated_by>bharats</sys_updated_by>
-            <sys_updated_on>2023-01-19 13:10:33</sys_updated_on>
+            <sys_updated_on>2023-01-24 08:20:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>My Idea</caption>
+            <caption>My Idea [1/2/3/4/5/6]</caption>
             <header>false</header>
             <name>x_cyso_innovate_innovate</name>
             <roles/>
@@ -25,7 +25,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fdd11b2c1be02510a0ab99f1b24bcb8e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>6</sys_mod_count>
             <sys_name>x_cyso_innovate_innovate</sys_name>
             <sys_overrides/>
             <sys_package display_value="Innovate" source="x_cyso_innovate">1b3e83e41be02510a0ab99f1b24bcbcc</sys_package>
@@ -33,7 +33,7 @@
             <sys_scope display_value="Innovate">1b3e83e41be02510a0ab99f1b24bcbcc</sys_scope>
             <sys_update_name>sys_ui_section_fdd11b2c1be02510a0ab99f1b24bcb8e</sys_update_name>
             <sys_updated_by>bharats</sys_updated_by>
-            <sys_updated_on>2023-01-19 13:10:33</sys_updated_on>
+            <sys_updated_on>2023-01-24 08:20:06</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
