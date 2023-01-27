@@ -23,7 +23,7 @@ jobs:
         uses: ServiceNow/sncicd-tests-run@2.0.0
         with:
           # testSuiteSysId: ${{ secrets.SN_ATFTESTSUITE_SYSID }}
-          testSuiteName: Innovate App123
+          testSuiteName: Innovate App
         env:
           nowUsername: ${{ secrets.SN_USERNAME }}
           nowPassword: ${{ secrets.SN_PASSWORD }}
