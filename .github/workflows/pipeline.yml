@@ -25,9 +25,17 @@ jobs:
       - name: ServiceNow CI/CD Run ATF Test Suite
         uses: ServiceNow/sncicd-tests-run@2.0.0
         with:
+          
+          browserName: Chrome
+          browserVersion: 109
+          # Name of the operating system under which to run the test suite.
+          osName: Windows
+          osVersion: 10
           testSuiteSysId: ${{ secrets.SN_ATFTESTSUITE_SYSID }}
+          testSuiteName: Innovate App
         env:
           nowUsername: ${{ secrets.SN_USERNAME }}
           nowPassword: ${{ secrets.SN_PASSWORD }}
           nowInstallInstance: ${{ secrets.SN_TEST_INSTANCE }}
+
 
