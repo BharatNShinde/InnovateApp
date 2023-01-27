@@ -6,7 +6,6 @@ on:
     branches:
       - master
 
-
 jobs:
   build:
     # Purpose of this job is to Apply Remote Changes for the branch triggering    
