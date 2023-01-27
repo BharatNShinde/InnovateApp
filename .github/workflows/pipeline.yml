@@ -23,6 +23,10 @@ jobs:
         # uses: ServiceNow/sncicd-tests-run@49e9a72f68d0d1a2501d24a2cb14ed31b32a9ea8
         uses: ServiceNow/sncicd-tests-run@2.0.0
         with:
+          browserName: Chrome
+          browserVersion: 109.0.0.0
+          osName: Windows
+          osVersion: 10.0        
           testSuiteSysId: ${{ secrets.SN_ATFTESTSUITE_SYSID }}
         env:
           nowUsername: ${{ secrets.SN_USERNAME }}
